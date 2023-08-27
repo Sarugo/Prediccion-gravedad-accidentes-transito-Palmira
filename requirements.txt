@@ -2,7 +2,7 @@ dash==2.10.2
 pandas
 numpy
 folium
-plotly
+plotly==5.15.0
 folium.plugins
 dash_bootstrap_components
 scikit-learn
